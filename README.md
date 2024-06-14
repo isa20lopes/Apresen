@@ -1,7 +1,11 @@
 # ATIVIDADES REALIZADAS EM SALA
 
-#TECNOLOGIAS UTILIZADAS 
->*
+# TECNOLOGIAS UTILIZADAS 
+>* Power BI
+>* Exel
+>* PowerPoint
+>* Power apps
+>* Power automate
 
 
 POWER BI
