@@ -1,5 +1,8 @@
 # ATIVIDADES REALIZADAS EM SALA
 
+#TECNOLOGIAS UTILIZADAS 
+>*
+
 
 POWER BI
 
@@ -22,6 +25,11 @@ POWERAPPS
 ![Captura de tela 2024-06-07 201756 (2)](https://github.com/isa20lopes/Apresen/assets/163484630/a3d8753d-0acc-4d8c-b783-1ee143ef524a)
 ![Captura de tela 2024-06-07 201818](https://github.com/isa20lopes/Apresen/assets/163484630/853c13f5-f095-47f4-86c0-13290dc5dab8)
 ![Captura de tela 2024-06-07 201836](https://github.com/isa20lopes/Apresen/assets/163484630/dc29c6f9-b61a-4e71-a3c3-47b4ad8481dd)
+
+
+POWER AUTOMATE
+
+![Captura de tela 2024-06-07 200659 (3)](https://github.com/isa20lopes/Apresen/assets/163484630/29e6bf1c-2e80-4d57-b068-ebe8aba45881)
 
 
 
